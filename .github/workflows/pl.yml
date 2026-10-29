@@ -1,0 +1,31 @@
+name: PL playlist
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 03:00 UTC moi ngay
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: pl
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build pl.m3u
+        run: python -I scripts/pl_scrape.py --out .
+      - name: Commit neu doi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pl.m3u
+          if git diff --cached --quiet; then echo "khong doi"; exit 0; fi
+          git add pl-report.json
+          git commit -m "PL playlist $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
