@@ -7,46 +7,46 @@
  "entries": 348,
  "unique_urls": 196,
  "probe": {
-  "bad": 112,
-  "ok": 77,
+  "bad": 113,
+  "ok": 76,
   "geo": 7
  },
  "channels": 90,
  "channels_verified": 75,
  "sources_written": 92,
- "geo_marked": 15,
+ "geo_marked": 16,
  "duplicates_dropped": 0,
  "local_ok_urls": 86,
  "failed": [
   {
    "name": "4 Fun Dance",
    "url": "http://92.114.85.87:8018/play/a00k/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.27x real time)",
-   "speed": 0.27
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.28x real time)",
+   "speed": 0.28
   },
   {
    "name": "Active Family HD (1080i)",
    "url": "http://92.114.85.87:8010/play/a00p/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.61x real time)",
-   "speed": 0.61
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.29x real time)",
+   "speed": 0.29
   },
   {
    "name": "Antena HD",
    "url": "http://92.114.85.87:8010/play/a00g/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.47x real time)",
-   "speed": 0.47
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.33x real time)",
+   "speed": 0.33
   },
   {
    "name": "AXN Black (Poland) (576i)",
    "url": "http://92.114.85.87:8014/play/a00h/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.36x real time)",
-   "speed": 0.36
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.40x real time)",
+   "speed": 0.4
   },
   {
    "name": "AXN Poland (1080p)",
    "url": "http://92.114.85.87:8015/play/a00f/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.27x real time)",
-   "speed": 0.27
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.41x real time)",
+   "speed": 0.41
   },
   {
    "name": "AXN Spin (Hungary) Poland",
@@ -56,20 +56,20 @@
   {
    "name": "AXN Spin (Poland)",
    "url": "http://92.114.85.87:8010/play/a00b/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.22x real time)",
-   "speed": 0.22
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.27x real time)",
+   "speed": 0.27
   },
   {
    "name": "AXN White (Poland) (576i)",
    "url": "http://92.114.85.87:8014/play/a004/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (1.30x real time)",
-   "speed": 1.3
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.74x real time)",
+   "speed": 0.74
   },
   {
    "name": "Bialogardzka Telewizja Kablowa (1080p)",
    "url": "https://bsmbialogard.pl/live/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: live: playlist not advancing",
-   "speed": 1.96
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (1.23x real time)",
+   "speed": 1.23
   },
   {
    "name": "BTB 3 (1080p)",
@@ -84,14 +84,14 @@
   {
    "name": "CANAL+ 360 (576i)",
    "url": "http://92.114.85.87:8019/play/a003/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.18x real time)",
-   "speed": 0.18
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.20x real time)",
+   "speed": 0.2
   },
   {
    "name": "Canal+ Domo (576i)",
    "url": "http://92.114.85.87:8019/play/a008/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.49x real time)",
-   "speed": 0.49
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.20x real time)",
+   "speed": 0.2
   },
   {
    "name": "Canal+ Kuchnia (576i)",
@@ -107,23 +107,24 @@
   {
    "name": "Cartoon Classics (Poland)",
    "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): HTTP 403"
+   "why": "failed from Poland (pl-local-ok.json): HTTP 404"
   },
   {
    "name": "Cartoon Network CEE Poland",
    "url": "http://92.114.85.87:8007/play/a009",
-   "why": "failed from Poland (pl-local-ok.json): raw ts ended early"
+   "why": "failed from Poland (pl-local-ok.json): ts"
   },
   {
-   "name": "Cartoonito CEE Poland (1080p)",
-   "url": "http://92.114.85.87:8007/play/a008",
-   "why": "raw ts ended early"
+   "name": "CBeebies (Poland) (576p)",
+   "url": "http://92.114.85.87:8017/play/a004/index.m3u8",
+   "why": "variant: too slow (0.47x real time)",
+   "speed": 0.47
   },
   {
    "name": "Crime + Investigation Polsat (576i)",
    "url": "http://92.114.85.87:8015/play/a00d/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.45x real time)",
-   "speed": 0.45
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.16x real time)",
+   "speed": 0.16
   },
   {
    "name": "Echo24 (720p)",
@@ -133,14 +134,14 @@
   {
    "name": "Eleven Sports 1",
    "url": "http://92.114.85.87:8002/play/a00e/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.12x real time)",
-   "speed": 0.12
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.24x real time)",
+   "speed": 0.24
   },
   {
    "name": "Eleven Sports 2 (1080p)",
    "url": "http://92.114.85.87:8002/play/a00f/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.27x real time)",
-   "speed": 0.27
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.13x real time)",
+   "speed": 0.13
   },
   {
    "name": "Eleven Sports 3 (1080p)",
@@ -151,26 +152,26 @@
   {
    "name": "Eleven Sports 4 (1080p)",
    "url": "http://92.114.85.87:8002/play/a00h/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.27x real time)",
-   "speed": 0.27
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.18x real time)",
+   "speed": 0.18
   },
   {
    "name": "Eska Rock TV (1080p)",
    "url": "http://92.114.85.87:8016/play/a005/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.50x real time)",
-   "speed": 0.5
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.51x real time)",
+   "speed": 0.51
   },
   {
    "name": "Eska TV (1080p)",
    "url": "http://92.114.85.87:8018/play/a00h/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.16x real time)",
-   "speed": 0.16
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.20x real time)",
+   "speed": 0.2
   },
   {
    "name": "Eska TV Extra (1080p)",
    "url": "http://92.114.85.87:8016/play/a008/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.37x real time)",
-   "speed": 0.37
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.24x real time)",
+   "speed": 0.24
   },
   {
    "name": "Eurosport 1 Polska (1080p)",
@@ -190,50 +191,50 @@
   {
    "name": "FightBox Poland (576i)",
    "url": "http://92.114.85.87:8003/play/a00b/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.18x real time)",
-   "speed": 0.18
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.15x real time)",
+   "speed": 0.15
   },
   {
    "name": "FILMBOX+ Action (720p)",
    "url": "http://92.114.85.87:8008/play/a007/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.75x real time)",
-   "speed": 0.75
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.20x real time)",
+   "speed": 0.2
   },
   {
    "name": "FILMBOX+ Comedy (720p)",
    "url": "http://92.114.85.87:8008/play/a009/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.58x real time)",
-   "speed": 0.58
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.22x real time)",
+   "speed": 0.22
   },
   {
    "name": "FILMBOX+ Emotion (720p)",
    "url": "http://92.114.85.87:8008/play/a008/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.19x real time)",
-   "speed": 0.19
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.29x real time)",
+   "speed": 0.29
   },
   {
    "name": "FILMBOX+ Festival Poland",
    "url": "http://92.114.85.87:8018/play/a009/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.32x real time)",
-   "speed": 0.32
+   "why": "failed from Poland (pl-local-ok.json): ts",
+   "speed": 1.51
   },
   {
    "name": "FILMBOX+ Hits (576i)",
    "url": "http://92.114.85.87:8008/play/a00a/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.26x real time)",
-   "speed": 0.26
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.27x real time)",
+   "speed": 0.27
   },
   {
    "name": "Fokus TV",
    "url": "http://92.114.85.87:8018/play/a00i/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.43x real time)",
-   "speed": 0.43
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.24x real time)",
+   "speed": 0.24
   },
   {
    "name": "Fox (Poland) (576i)",
    "url": "http://92.114.85.87:8015/play/a00a/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.28x real time)",
-   "speed": 0.28
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.21x real time)",
+   "speed": 0.21
   },
   {
    "name": "Hard Knocks Fighting Championship",
@@ -243,8 +244,8 @@
   {
    "name": "History (Poland) (576i)",
    "url": "http://92.114.85.87:8015/play/a00c/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.58x real time)",
-   "speed": 0.58
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.19x real time)",
+   "speed": 0.19
   },
   {
    "name": "Home TV",
@@ -259,50 +260,50 @@
   {
    "name": "Nat Geo People (576i)",
    "url": "http://92.114.85.87:8016/play/a003/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.25x real time)",
-   "speed": 0.25
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.24x real time)",
+   "speed": 0.24
   },
   {
    "name": "National Geographic (Poland) (576i)",
    "url": "http://92.114.85.87:8006/play/a00a/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.18x real time)",
-   "speed": 0.18
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.20x real time)",
+   "speed": 0.2
   },
   {
    "name": "National Geographic Wild (Poland) (576i)",
    "url": "http://92.114.85.87:8010/play/a005/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.41x real time)",
-   "speed": 0.41
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.12x real time)",
+   "speed": 0.12
   },
   {
    "name": "Newsmax Polska (576i)",
    "url": "http://92.114.85.87:8014/play/a006/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.23x real time)",
-   "speed": 0.23
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.17x real time)",
+   "speed": 0.17
   },
   {
    "name": "Nick Jr. (Poland) (576i)",
    "url": "http://92.114.85.87:8013/play/a004/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.59x real time)",
-   "speed": 0.59
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.33x real time)",
+   "speed": 0.33
   },
   {
    "name": "Nickelodeon (Poland) (576i)",
    "url": "http://92.114.85.87:8013/play/a005/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.37x real time)",
-   "speed": 0.37
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.51x real time)",
+   "speed": 0.51
   },
   {
    "name": "Nicktoons (Poland) (576i)",
    "url": "http://92.114.85.87:8013/play/a008/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.21x real time)",
-   "speed": 0.21
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.18x real time)",
+   "speed": 0.18
   },
   {
    "name": "Nowa TV (1080p)",
    "url": "http://92.114.85.87:8001/play/a013/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.26x real time)",
-   "speed": 0.26
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.23x real time)",
+   "speed": 0.23
   },
   {
    "name": "Nuta Gold",
@@ -312,8 +313,8 @@
   {
    "name": "Polonia 1 (576i)",
    "url": "http://92.114.85.87:8012/play/a006/index.m3u8",
-   "why": "variant: too slow (0.45x real time)",
-   "speed": 0.45
+   "why": "variant: too slow (0.20x real time)",
+   "speed": 0.2
   },
   {
    "name": "Polsat 2 (1080p)",
@@ -323,8 +324,8 @@
   {
    "name": "Polsat",
    "url": "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8",
-   "why": "too slow (0.98x real time)",
-   "speed": 0.98
+   "why": "too slow (1.02x real time)",
+   "speed": 1.02
   },
   {
    "name": "Polsat Film HD",
@@ -339,8 +340,8 @@
   {
    "name": "Polsat Music (1080p)",
    "url": "http://92.114.85.87:8001/play/a00z/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.16x real time)",
-   "speed": 0.16
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.35x real time)",
+   "speed": 0.35
   },
   {
    "name": "Polsat News 2 (1080p) [Geo-blocked]",
@@ -365,8 +366,8 @@
   {
    "name": "Polsat Rodzina HD",
    "url": "http://92.114.85.87:8014/play/a00i/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.60x real time)",
-   "speed": 0.6
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.32x real time)",
+   "speed": 0.32
   },
   {
    "name": "Polsat Seriale (1080p)",
@@ -376,8 +377,8 @@
   {
    "name": "Polsat Seriale HD (1080i)",
    "url": "http://92.114.85.87:8014/play/a00a/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.19x real time)",
-   "speed": 0.19
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.39x real time)",
+   "speed": 0.39
   },
   {
    "name": "Polsat Sport 1 (1080p)",
@@ -402,14 +403,14 @@
   {
    "name": "Polsat Viasat Explore",
    "url": "http://92.114.85.87:8014/play/a00g/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.45x real time)",
-   "speed": 0.45
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.29x real time)",
+   "speed": 0.29
   },
   {
    "name": "Polsat Viasat Nature",
    "url": "http://92.114.85.87:8016/play/a004/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.23x real time)",
-   "speed": 0.23
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.22x real time)",
+   "speed": 0.22
   },
   {
    "name": "Power TV (Poland)",
@@ -424,79 +425,74 @@
   {
    "name": "Radiowa Czworka (1080p)",
    "url": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8",
-   "why": "variant: too slow (1.16x real time)",
-   "speed": 1.16
+   "why": "variant: too slow (0.94x real time)",
+   "speed": 0.94
   },
   {
    "name": "Romance TV (576i)",
    "url": "http://92.114.85.87:8009/play/a00a/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.39x real time)",
-   "speed": 0.39
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.26x real time)",
+   "speed": 0.26
   },
   {
    "name": "Sci Fi (Poland) (1080p)",
    "url": "http://92.114.85.87:8003/play/a007/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.16x real time)",
-   "speed": 0.16
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.61x real time)",
+   "speed": 0.61
   },
   {
    "name": "Stars TV (1080p)",
    "url": "http://92.114.85.87:8001/play/a00o/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.20x real time)",
-   "speed": 0.2
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.26x real time)",
+   "speed": 0.26
   },
   {
    "name": "Stopklatka TV",
    "url": "http://92.114.85.87:8018/play/a004/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (1.10x real time)",
-   "speed": 1.1
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.69x real time)",
+   "speed": 0.69
   },
   {
    "name": "Sundance TV (Poland) (576i)",
    "url": "http://92.114.85.87:8003/play/a004/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.22x real time)",
-   "speed": 0.22
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.17x real time)",
+   "speed": 0.17
   },
   {
    "name": "Super Polsat",
    "url": "http://92.114.85.87:8004/play/a00c/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.24x real time)",
-   "speed": 0.24
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.22x real time)",
+   "speed": 0.22
   },
   {
    "name": "Szlagier TV",
    "url": "http://92.114.85.87:8010/play/a00l/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.22x real time)",
-   "speed": 0.22
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.71x real time)",
+   "speed": 0.71
   },
   {
    "name": "TeenNick (Poland) (576i)",
    "url": "http://92.114.85.87:8010/play/a009/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.22x real time)",
-   "speed": 0.22
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.15x real time)",
+   "speed": 0.15
   },
   {
    "name": "Tele5 (576i)",
    "url": "http://92.114.85.87:8012/play/a005/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.98x real time)",
-   "speed": 0.98
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.62x real time)",
+   "speed": 0.62
   },
   {
    "name": "Teletoon+ HD (1080i)",
    "url": "http://92.114.85.87:8009/play/a006/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.44x real time)",
-   "speed": 0.44
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.47x real time)",
+   "speed": 0.47
   },
   {
    "name": "Telewizja Jaslo (720p)",
    "url": "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8",
    "why": "failed from Poland (pl-local-ok.json): ts",
-   "speed": 7.19
-  },
-  {
-   "name": "Telewizja Luban (720p) [Not 24/7]",
-   "url": "http://stream.herissons.cloud/hls/tvluban.m3u8",
-   "why": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "speed": 5.58
   },
   {
    "name": "Telewizja Regionalna Zary",
@@ -506,8 +502,8 @@
   {
    "name": "Travel Channel (Poland) (576i)",
    "url": "http://92.114.85.87:8011/play/a00d/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.19x real time)",
-   "speed": 0.19
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.21x real time)",
+   "speed": 0.21
   },
   {
    "name": "TV4 (Poland) (1080p) [Geo-blocked]",
@@ -522,8 +518,20 @@
   {
    "name": "TV Okazje (576i)",
    "url": "http://92.114.85.87:8014/play/a008/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.99x real time)",
-   "speed": 0.99
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.97x real time)",
+   "speed": 0.97
+  },
+  {
+   "name": "TV Puls (1080p)",
+   "url": "https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8",
+   "why": "variant: too slow (1.21x real time)",
+   "speed": 1.21
+  },
+  {
+   "name": "TV Puls HD (1080p)",
+   "url": "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8",
+   "why": "variant: too slow (1.24x real time)",
+   "speed": 1.24
   },
   {
    "name": "TV Regionalna Lubin (1080p)",
@@ -533,20 +541,26 @@
   {
    "name": "TV Republika",
    "url": "http://92.114.85.87:8018/play/a008/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.22x real time)",
-   "speed": 0.22
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.21x real time)",
+   "speed": 0.21
   },
   {
    "name": "TVC (Poland)",
    "url": "http://92.114.85.87:8010/play/a00m/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.49x real time)",
-   "speed": 0.49
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.37x real time)",
+   "speed": 0.37
   },
   {
    "name": "TVC Super",
    "url": "http://92.114.85.87:8010/play/a00n/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (1.06x real time)",
-   "speed": 1.06
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.28x real time)",
+   "speed": 0.28
+  },
+  {
+   "name": "TVK Stella (576p)",
+   "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
+   "why": "too slow (0.77x real time)",
+   "speed": 0.77
   },
   {
    "name": "TVP1 (1080p)",
@@ -561,14 +575,14 @@
   {
    "name": "TVP 3 Warszawa",
    "url": "http://92.114.85.87:8010/play/a006/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.23x real time)",
-   "speed": 0.23
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.21x real time)",
+   "speed": 0.21
   },
   {
    "name": "TVP ABC (576i)",
    "url": "http://92.114.85.87:8002/play/a00b/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.99x real time)",
-   "speed": 0.99
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.92x real time)",
+   "speed": 0.92
   },
   {
    "name": "TVP HD (1080p)",
@@ -578,20 +592,20 @@
   {
    "name": "TVP Historia (576i)",
    "url": "http://92.114.85.87:8002/play/a00d/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.31x real time)",
-   "speed": 0.31
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.40x real time)",
+   "speed": 0.4
   },
   {
    "name": "TVP Kultura (1080p)",
    "url": "http://92.114.85.87:8006/play/a007/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.32x real time)",
-   "speed": 0.32
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.16x real time)",
+   "speed": 0.16
   },
   {
    "name": "TVP Seriale (1080p)",
    "url": "http://92.114.85.87:8019/play/a00a/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.19x real time)",
-   "speed": 0.19
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.21x real time)",
+   "speed": 0.21
   },
   {
    "name": "TVP Sport (1080p)",
@@ -606,8 +620,8 @@
   {
    "name": "TVS (Poland)",
    "url": "http://92.114.85.87:8010/play/a00e/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.84x real time)",
-   "speed": 0.84
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.24x real time)",
+   "speed": 0.24
   },
   {
    "name": "TVT (Poland) (720p)",
@@ -620,22 +634,16 @@
    "why": "failed from Poland (pl-local-ok.json): URLError: <urlopen error timed out>"
   },
   {
-   "name": "Twoja.TV (1080p)",
-   "url": "https://stream.twoja.tv/ttv_hls/live.m3u8",
-   "why": "variant: too slow (0.69x real time)",
-   "speed": 0.69
-  },
-  {
    "name": "Viasat Epic Drama Poland (1080p)",
    "url": "http://92.114.85.87:8001/play/a00x/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.17x real time)",
-   "speed": 0.17
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.30x real time)",
+   "speed": 0.3
   },
   {
    "name": "Viasat True Crime",
    "url": "http://92.114.85.87:8010/play/a00a/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.38x real time)",
-   "speed": 0.38
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.34x real time)",
+   "speed": 0.34
   },
   {
    "name": "VOD 205 (576p)",
@@ -660,8 +668,8 @@
   {
    "name": "VOX Music TV (1080p)",
    "url": "http://92.114.85.87:8016/play/a00a/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.28x real time)",
-   "speed": 0.28
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.16x real time)",
+   "speed": 0.16
   },
   {
    "name": "WP TV (576i)",
@@ -671,14 +679,14 @@
   {
    "name": "Wydarzenia 24 (576i)",
    "url": "http://92.114.85.87:8016/play/a007/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.20x real time)",
-   "speed": 0.2
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.15x real time)",
+   "speed": 0.15
   },
   {
    "name": "Zoom TV (576i)",
    "url": "http://92.114.85.87:8001/play/a00y/index.m3u8",
-   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.21x real time)",
-   "speed": 0.21
+   "why": "failed from Poland (pl-local-ok.json): variant: too slow (0.31x real time)",
+   "speed": 0.31
   },
   {
    "name": "Discovery History",
