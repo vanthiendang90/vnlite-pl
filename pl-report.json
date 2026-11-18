@@ -21,14 +21,14 @@
   {
    "name": "4 Fun Dance",
    "url": "http://92.114.85.87:8018/play/a00k/index.m3u8",
-   "why": "variant: too slow (0.27x real time)",
-   "speed": 0.27
+   "why": "variant: too slow (1.10x real time)",
+   "speed": 1.1
   },
   {
    "name": "4 Fun Kids (576i)",
    "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8",
-   "why": "variant: too slow (0.92x real time)",
-   "speed": 0.92
+   "why": "variant: too slow (0.93x real time)",
+   "speed": 0.93
   },
   {
    "name": "4 Fun TV",
@@ -41,27 +41,15 @@
    "why": "HTTP 404"
   },
   {
-   "name": "American Crime Channel (720p)",
-   "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104",
-   "why": "variant: ts video empty",
-   "speed": 4.98
-  },
-  {
    "name": "Antena HD",
    "url": "http://92.114.85.87:8010/play/a00g/index.m3u8",
    "why": "HTTP 404"
   },
   {
-   "name": "AXN Black (Poland) (576i)",
-   "url": "http://92.114.85.87:8014/play/a00h/index.m3u8",
-   "why": "variant: too slow (0.26x real time)",
-   "speed": 0.26
-  },
-  {
    "name": "AXN Poland (1080p)",
    "url": "http://92.114.85.87:8015/play/a00f/index.m3u8",
-   "why": "variant: too slow (0.24x real time)",
-   "speed": 0.24
+   "why": "variant: too slow (0.49x real time)",
+   "speed": 0.49
   },
   {
    "name": "AXN Spin Poland",
@@ -71,14 +59,14 @@
   {
    "name": "AXN White (Poland) (576i)",
    "url": "http://92.114.85.87:8014/play/a004/index.m3u8",
-   "why": "variant: too slow (0.57x real time)",
-   "speed": 0.57
+   "why": "variant: too slow (0.19x real time)",
+   "speed": 0.19
   },
   {
    "name": "Bialogardzka Telewizja Kablowa (1080p)",
    "url": "https://bsmbialogard.pl/live/index.m3u8",
    "why": "variant: live: playlist not advancing",
-   "speed": 1.38
+   "speed": 1.48
   },
   {
    "name": "BTB 3 (1080p)",
@@ -88,20 +76,20 @@
   {
    "name": "CANAL+ 360 (576i)",
    "url": "http://92.114.85.87:8019/play/a003/index.m3u8",
-   "why": "variant: too slow (0.26x real time)",
-   "speed": 0.26
+   "why": "variant: too slow (0.21x real time)",
+   "speed": 0.21
   },
   {
    "name": "Canal+ Domo (576i)",
    "url": "http://92.114.85.87:8019/play/a008/index.m3u8",
-   "why": "variant: too slow (0.19x real time)",
-   "speed": 0.19
+   "why": "variant: too slow (0.22x real time)",
+   "speed": 0.22
   },
   {
    "name": "Canal+ Kuchnia (576i)",
    "url": "http://92.114.85.87:8019/play/a009/index.m3u8",
-   "why": "variant: too slow (0.25x real time)",
-   "speed": 0.25
+   "why": "variant: too slow (0.16x real time)",
+   "speed": 0.16
   },
   {
    "name": "Canal+ Sport 2",
@@ -129,27 +117,22 @@
    "why": "HTTP 404"
   },
   {
-   "name": "Cartoonito CEE Poland (1080p)",
-   "url": "http://92.114.85.87:8007/play/a008",
-   "why": "raw ts ended early"
-  },
-  {
    "name": "CBeebies (Poland) (576p)",
    "url": "http://92.114.85.87:8017/play/a004/index.m3u8",
-   "why": "variant: too slow (0.40x real time)",
-   "speed": 0.4
+   "why": "variant: too slow (0.87x real time)",
+   "speed": 0.87
   },
   {
    "name": "Crime + Investigation Polsat (576i)",
    "url": "http://92.114.85.87:8015/play/a00d/index.m3u8",
-   "why": "variant: too slow (0.34x real time)",
-   "speed": 0.34
+   "why": "variant: too slow (0.22x real time)",
+   "speed": 0.22
   },
   {
    "name": "Disco Polo Music (1080p)",
    "url": "http://92.114.85.87:8014/play/a007/index.m3u8",
-   "why": "variant: too slow (0.41x real time)",
-   "speed": 0.41
+   "why": "variant: too slow (0.52x real time)",
+   "speed": 0.52
   },
   {
    "name": "Disney Junior (Poland) (576p)",
@@ -170,8 +153,8 @@
   {
    "name": "Eleven Sports 2 (1080p)",
    "url": "http://92.114.85.87:8002/play/a00f/index.m3u8",
-   "why": "variant: too slow (0.14x real time)",
-   "speed": 0.14
+   "why": "variant: too slow (0.28x real time)",
+   "speed": 0.28
   },
   {
    "name": "Eleven Sports 3 (1080p)",
@@ -182,26 +165,26 @@
   {
    "name": "Eleven Sports 4 (1080p)",
    "url": "http://92.114.85.87:8002/play/a00h/index.m3u8",
-   "why": "variant: too slow (0.27x real time)",
-   "speed": 0.27
+   "why": "variant: too slow (0.30x real time)",
+   "speed": 0.3
   },
   {
    "name": "Eska Rock TV (1080p)",
    "url": "http://92.114.85.87:8016/play/a005/index.m3u8",
-   "why": "variant: too slow (0.26x real time)",
-   "speed": 0.26
+   "why": "variant: too slow (0.80x real time)",
+   "speed": 0.8
   },
   {
    "name": "Eska TV (1080p)",
    "url": "http://92.114.85.87:8018/play/a00h/index.m3u8",
-   "why": "variant: too slow (0.29x real time)",
-   "speed": 0.29
+   "why": "variant: too slow (0.16x real time)",
+   "speed": 0.16
   },
   {
    "name": "Eska TV Extra (1080p)",
    "url": "http://92.114.85.87:8016/play/a008/index.m3u8",
-   "why": "variant: too slow (0.19x real time)",
-   "speed": 0.19
+   "why": "variant: too slow (0.71x real time)",
+   "speed": 0.71
   },
   {
    "name": "Eurosport 1 Polska (1080p)",
@@ -216,24 +199,24 @@
   {
    "name": "Eurosport 3 Polska",
    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=512159637",
-   "why": "HTTP 503"
+   "why": "HTTP 404"
   },
   {
    "name": "Eurosport 4 Polska",
    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2896573317",
-   "why": "HTTP 503"
+   "why": "HTTP 404"
   },
   {
    "name": "FightBox Poland (576i)",
    "url": "http://92.114.85.87:8003/play/a00b/index.m3u8",
-   "why": "variant: too slow (0.17x real time)",
-   "speed": 0.17
+   "why": "variant: too slow (0.21x real time)",
+   "speed": 0.21
   },
   {
    "name": "FILMBOX+ Action (720p)",
    "url": "http://92.114.85.87:8008/play/a007/index.m3u8",
-   "why": "variant: too slow (0.86x real time)",
-   "speed": 0.86
+   "why": "variant: too slow (0.70x real time)",
+   "speed": 0.7
   },
   {
    "name": "FILMBOX+ Comedy (720p)",
@@ -244,26 +227,32 @@
   {
    "name": "FILMBOX+ Emotion (720p)",
    "url": "http://92.114.85.87:8008/play/a008/index.m3u8",
-   "why": "variant: too slow (0.25x real time)",
-   "speed": 0.25
+   "why": "variant: too slow (0.28x real time)",
+   "speed": 0.28
+  },
+  {
+   "name": "FILMBOX+ Festival Poland",
+   "url": "http://92.114.85.87:8018/play/a009/index.m3u8",
+   "why": "variant: too slow (0.38x real time)",
+   "speed": 0.38
   },
   {
    "name": "FILMBOX+ Hits (576i)",
    "url": "http://92.114.85.87:8008/play/a00a/index.m3u8",
-   "why": "variant: too slow (0.24x real time)",
-   "speed": 0.24
+   "why": "variant: too slow (0.27x real time)",
+   "speed": 0.27
   },
   {
    "name": "Fokus TV",
    "url": "http://92.114.85.87:8018/play/a00i/index.m3u8",
-   "why": "variant: too slow (0.23x real time)",
-   "speed": 0.23
+   "why": "variant: too slow (0.21x real time)",
+   "speed": 0.21
   },
   {
    "name": "Fox (Poland) (576i)",
    "url": "http://92.114.85.87:8015/play/a00a/index.m3u8",
-   "why": "variant: too slow (0.30x real time)",
-   "speed": 0.3
+   "why": "variant: too slow (0.26x real time)",
+   "speed": 0.26
   },
   {
    "name": "Hard Knocks Fighting Championship (720p)",
@@ -273,13 +262,13 @@
   {
    "name": "History (Poland) (576i)",
    "url": "http://92.114.85.87:8015/play/a00c/index.m3u8",
-   "why": "variant: too slow (0.25x real time)",
-   "speed": 0.25
+   "why": "variant: too slow (0.27x real time)",
+   "speed": 0.27
   },
   {
    "name": "Home TV",
    "url": "http://92.114.85.87:8010/play/a00h/index.m3u8",
-   "why": "URLError: <urlopen error [Errno 111] Connection refused>"
+   "why": "ConnectionResetError: [Errno 104] Connection reset by peer"
   },
   {
    "name": "Mango (Poland) (1080p) [Geo-blocked]",
@@ -289,25 +278,25 @@
   {
    "name": "Nat Geo People (576i)",
    "url": "http://92.114.85.87:8016/play/a003/index.m3u8",
-   "why": "variant: too slow (0.26x real time)",
-   "speed": 0.26
+   "why": "variant: too slow (0.24x real time)",
+   "speed": 0.24
   },
   {
    "name": "National Geographic (Poland) (576i)",
    "url": "http://92.114.85.87:8006/play/a00a/index.m3u8",
-   "why": "variant: too slow (0.71x real time)",
-   "speed": 0.71
+   "why": "variant: too slow (0.20x real time)",
+   "speed": 0.2
   },
   {
    "name": "National Geographic Wild (Poland) (576i)",
    "url": "http://92.114.85.87:8010/play/a005/index.m3u8",
-   "why": "HTTP 404"
+   "why": "URLError: <urlopen error [Errno 111] Connection refused>"
   },
   {
    "name": "Newsmax Polska (576i)",
    "url": "http://92.114.85.87:8014/play/a006/index.m3u8",
-   "why": "variant: too slow (0.27x real time)",
-   "speed": 0.27
+   "why": "variant: too slow (0.29x real time)",
+   "speed": 0.29
   },
   {
    "name": "NewTV (1080p)",
@@ -317,31 +306,31 @@
   {
    "name": "Nick Jr. (Poland) (576i)",
    "url": "http://92.114.85.87:8013/play/a004/index.m3u8",
-   "why": "variant: too slow (0.20x real time)",
-   "speed": 0.2
+   "why": "variant: too slow (0.40x real time)",
+   "speed": 0.4
   },
   {
    "name": "Nicktoons (Poland) (576i)",
    "url": "http://92.114.85.87:8013/play/a008/index.m3u8",
-   "why": "variant: too slow (0.23x real time)",
-   "speed": 0.23
+   "why": "variant: too slow (0.28x real time)",
+   "speed": 0.28
   },
   {
    "name": "Nowa TV (1080p)",
    "url": "http://92.114.85.87:8001/play/a013/index.m3u8",
-   "why": "variant: too slow (0.19x real time)",
-   "speed": 0.19
+   "why": "variant: too slow (0.29x real time)",
+   "speed": 0.29
   },
   {
    "name": "Paramount Network (Poland)",
    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693",
-   "why": "HTTP 503"
+   "why": "HTTP 404"
   },
   {
    "name": "Polonia 1 (576i)",
    "url": "http://92.114.85.87:8012/play/a006/index.m3u8",
-   "why": "variant: too slow (0.26x real time)",
-   "speed": 0.26
+   "why": "variant: too slow (0.98x real time)",
+   "speed": 0.98
   },
   {
    "name": "Polsat 1 [Not 24/7]",
@@ -372,14 +361,14 @@
   {
    "name": "Polsat JimJam (576i)",
    "url": "http://92.114.85.87:8014/play/a00d/index.m3u8",
-   "why": "variant: too slow (0.22x real time)",
-   "speed": 0.22
+   "why": "variant: too slow (0.59x real time)",
+   "speed": 0.59
   },
   {
    "name": "Polsat Music (1080p)",
    "url": "http://92.114.85.87:8001/play/a00z/index.m3u8",
-   "why": "variant: too slow (0.43x real time)",
-   "speed": 0.43
+   "why": "variant: too slow (0.22x real time)",
+   "speed": 0.22
   },
   {
    "name": "Polsat News 2 (1080p) [Geo-blocked]",
@@ -404,8 +393,8 @@
   {
    "name": "Polsat Rodzina HD",
    "url": "http://92.114.85.87:8014/play/a00i/index.m3u8",
-   "why": "variant: too slow (0.18x real time)",
-   "speed": 0.18
+   "why": "variant: too slow (0.23x real time)",
+   "speed": 0.23
   },
   {
    "name": "Polsat Seriale (1080p)",
@@ -415,8 +404,8 @@
   {
    "name": "Polsat Seriale HD (1080i)",
    "url": "http://92.114.85.87:8014/play/a00a/index.m3u8",
-   "why": "variant: too slow (0.34x real time)",
-   "speed": 0.34
+   "why": "variant: too slow (0.24x real time)",
+   "speed": 0.24
   },
   {
    "name": "Polsat Sport 1 (1080p)",
@@ -441,14 +430,14 @@
   {
    "name": "Polsat Viasat Explore",
    "url": "http://92.114.85.87:8014/play/a00g/index.m3u8",
-   "why": "variant: too slow (0.21x real time)",
-   "speed": 0.21
+   "why": "variant: too slow (0.25x real time)",
+   "speed": 0.25
   },
   {
    "name": "Polsat Viasat Nature",
    "url": "http://92.114.85.87:8016/play/a004/index.m3u8",
-   "why": "variant: too slow (0.18x real time)",
-   "speed": 0.18
+   "why": "variant: too slow (0.61x real time)",
+   "speed": 0.61
   },
   {
    "name": "Power TV (Poland)",
@@ -466,82 +455,74 @@
    "why": "HTTP 404"
   },
   {
-   "name": "Radiowa Czworka (1080p)",
-   "url": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8",
-   "why": "variant: too slow (1.04x real time)",
-   "speed": 1.04
-  },
-  {
    "name": "Romance TV (576i)",
    "url": "http://92.114.85.87:8009/play/a00a/index.m3u8",
-   "why": "variant: too slow (0.41x real time)",
-   "speed": 0.41
+   "why": "variant: too slow (0.69x real time)",
+   "speed": 0.69
   },
   {
    "name": "Sci Fi (Poland) (1080p)",
    "url": "http://92.114.85.87:8003/play/a007/index.m3u8",
-   "why": "variant: too slow (0.39x real time)",
-   "speed": 0.39
+   "why": "variant: too slow (0.34x real time)",
+   "speed": 0.34
   },
   {
    "name": "Stars TV (1080p)",
    "url": "http://92.114.85.87:8001/play/a00o/index.m3u8",
-   "why": "variant: too slow (0.29x real time)",
-   "speed": 0.29
+   "why": "variant: too slow (0.53x real time)",
+   "speed": 0.53
   },
   {
    "name": "Stopklatka TV",
    "url": "http://92.114.85.87:8018/play/a004/index.m3u8",
-   "why": "variant: too slow (0.65x real time)",
-   "speed": 0.65
+   "why": "variant: too slow (0.31x real time)",
+   "speed": 0.31
   },
   {
    "name": "Sundance TV (Poland) (576i)",
    "url": "http://92.114.85.87:8003/play/a004/index.m3u8",
-   "why": "variant: too slow (0.16x real time)",
-   "speed": 0.16
+   "why": "variant: too slow (0.23x real time)",
+   "speed": 0.23
   },
   {
    "name": "Super Polsat",
    "url": "http://92.114.85.87:8004/play/a00c/index.m3u8",
-   "why": "variant: too slow (0.22x real time)",
-   "speed": 0.22
+   "why": "variant: too slow (0.24x real time)",
+   "speed": 0.24
   },
   {
    "name": "Szlagier TV",
    "url": "http://92.114.85.87:8010/play/a00l/index.m3u8",
-   "why": "variant: too slow (0.86x real time)",
-   "speed": 0.86
+   "why": "HTTP 404"
   },
   {
    "name": "TeenNick (Poland) (576i)",
    "url": "http://92.114.85.87:8010/play/a009/index.m3u8",
-   "why": "variant: too slow (0.27x real time)",
-   "speed": 0.27
+   "why": "HTTP 404"
   },
   {
    "name": "Tele5 (576i)",
    "url": "http://92.114.85.87:8012/play/a005/index.m3u8",
-   "why": "variant: too slow (0.93x real time)",
-   "speed": 0.93
-  },
-  {
-   "name": "Teletoon+ HD (1080i)",
-   "url": "http://92.114.85.87:8009/play/a006/index.m3u8",
    "why": "variant: too slow (0.28x real time)",
    "speed": 0.28
   },
   {
+   "name": "Teletoon+ HD (1080i)",
+   "url": "http://92.114.85.87:8009/play/a006/index.m3u8",
+   "why": "variant: too slow (0.59x real time)",
+   "speed": 0.59
+  },
+  {
    "name": "Telewizja Regionalna Zary",
    "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8",
-   "why": "variant: too slow (0.79x real time)",
-   "speed": 0.79
+   "why": "variant: too slow (0.96x real time)",
+   "speed": 0.96
   },
   {
    "name": "Travel Channel (Poland) (576i)",
    "url": "http://92.114.85.87:8011/play/a00d/index.m3u8",
-   "why": "variant: too slow (0.18x real time)",
-   "speed": 0.18
+   "why": "variant: too slow (0.30x real time)",
+   "speed": 0.3
   },
   {
    "name": "TV4 (Poland) (1080p) [Geo-blocked]",
@@ -556,14 +537,20 @@
   {
    "name": "TV Okazje (576i)",
    "url": "http://92.114.85.87:8014/play/a008/index.m3u8",
-   "why": "variant: too slow (0.68x real time)",
-   "speed": 0.68
+   "why": "variant: too slow (0.46x real time)",
+   "speed": 0.46
+  },
+  {
+   "name": "TV Regionalna Lubin (1080p)",
+   "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8",
+   "why": "variant: too slow (1.03x real time)",
+   "speed": 1.03
   },
   {
    "name": "TV Republika",
    "url": "http://92.114.85.87:8018/play/a008/index.m3u8",
-   "why": "variant: too slow (0.21x real time)",
-   "speed": 0.21
+   "why": "variant: too slow (0.23x real time)",
+   "speed": 0.23
   },
   {
    "name": "TVC (Poland)",
@@ -578,8 +565,8 @@
   {
    "name": "TVP1",
    "url": "http://92.114.85.87:8009/play/a009/index.m3u8",
-   "why": "variant: too slow (0.23x real time)",
-   "speed": 0.23
+   "why": "variant: too slow (0.18x real time)",
+   "speed": 0.18
   },
   {
    "name": "TVP Sport (1080p) [Not 24/7]",
@@ -589,7 +576,7 @@
   {
    "name": "TVS (Poland)",
    "url": "http://92.114.85.87:8010/play/a00e/index.m3u8",
-   "why": "URLError: <urlopen error [Errno 111] Connection refused>"
+   "why": "HTTP 404"
   },
   {
    "name": "TVT (Poland) (720p)",
@@ -604,13 +591,14 @@
   {
    "name": "Viasat Epic Drama Poland (1080p)",
    "url": "http://92.114.85.87:8001/play/a00x/index.m3u8",
-   "why": "variant: too slow (0.86x real time)",
-   "speed": 0.86
+   "why": "variant: too slow (0.25x real time)",
+   "speed": 0.25
   },
   {
    "name": "Viasat True Crime",
    "url": "http://92.114.85.87:8010/play/a00a/index.m3u8",
-   "why": "HTTP 404"
+   "why": "variant: too slow (0.30x real time)",
+   "speed": 0.3
   },
   {
    "name": "VOD 205 (576p)",
@@ -635,8 +623,8 @@
   {
    "name": "VOX Music TV (1080p)",
    "url": "http://92.114.85.87:8016/play/a00a/index.m3u8",
-   "why": "variant: too slow (0.38x real time)",
-   "speed": 0.38
+   "why": "variant: too slow (0.46x real time)",
+   "speed": 0.46
   },
   {
    "name": "WP TV (576i)",
@@ -651,32 +639,44 @@
   {
    "name": "Nickelodeon (Poland) (576i) Ⓢ",
    "url": "http://92.114.85.87:8013/play/a005/index.m3u8",
-   "why": "variant: too slow (0.80x real time)",
-   "speed": 0.8
+   "why": "variant: too slow (0.93x real time)",
+   "speed": 0.93
   },
   {
    "name": "TVP ABC (576i) Ⓢ",
    "url": "http://92.114.85.87:8002/play/a00b/index.m3u8",
-   "why": "variant: too slow (0.28x real time)",
-   "speed": 0.28
+   "why": "variant: too slow (0.65x real time)",
+   "speed": 0.65
+  },
+  {
+   "name": "TVP Historia (576i) Ⓢ",
+   "url": "http://92.114.85.87:8002/play/a00d/index.m3u8",
+   "why": "variant: too slow (0.23x real time)",
+   "speed": 0.23
   },
   {
    "name": "TVP Kultura (1080p)",
    "url": "http://92.114.85.87:8006/play/a007/index.m3u8",
-   "why": "variant: too slow (0.20x real time)",
-   "speed": 0.2
+   "why": "variant: too slow (0.33x real time)",
+   "speed": 0.33
   },
   {
    "name": "TVP Seriale (1080p)",
    "url": "http://92.114.85.87:8019/play/a00a/index.m3u8",
-   "why": "variant: too slow (0.18x real time)",
-   "speed": 0.18
+   "why": "variant: too slow (0.22x real time)",
+   "speed": 0.22
   },
   {
    "name": "Wydarzenia 24 (576i) Ⓢ",
    "url": "http://92.114.85.87:8016/play/a007/index.m3u8",
-   "why": "variant: too slow (0.26x real time)",
-   "speed": 0.26
+   "why": "variant: too slow (0.21x real time)",
+   "speed": 0.21
+  },
+  {
+   "name": "Zoom TV (576i) Ⓢ",
+   "url": "http://92.114.85.87:8001/play/a00y/index.m3u8",
+   "why": "variant: too slow (1.12x real time)",
+   "speed": 1.12
   }
  ]
 }
