@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVP1.pl@SD" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Kênh Ba Lan",TVP1
 http://91.226.96.110:5555/tvp1/index.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl@SD" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Kênh Ba Lan",TVP2
+http://46.149.222.219:18002/tvp2hd
 #EXTINF:-1 tvg-id="TVPInfo.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png" group-title="Kênh Ba Lan",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Kênh Ba Lan",TVP Sport
+http://91.226.96.110:5555/tvpsport/index.m3u8
 #EXTINF:-1 tvg-id="TVPWorld.pl@SD" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="Kênh Ba Lan",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" group-title="Kênh Ba Lan",TVP Polonia
@@ -11,24 +15,24 @@ https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tvp_polonia/live.livx/playl
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPRozrywka.pl@SD" tvg-logo="https://i.imgur.com/05Vx5px.png" group-title="Kênh Ba Lan",TVP Rozrywka
 http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
-#EXTINF:-1 tvg-id="TVPuls.pl@SD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="Kênh Ba Lan",TV Puls
-https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
-#EXTINF:-1 tvg-id="TVPuls.pl@SD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="Kênh Ba Lan",TV Puls
+#EXTINF:-1 tvg-id="TVPuls.pl@HD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="Kênh Ba Lan",TV Puls HD
 https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-id="TVPuls.pl@HD" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="Kênh Ba Lan",TV Puls HD
+https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl@SD" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Kênh Ba Lan",Polsat Sport Premium 1
+http://46.149.222.219:18002/polsatsportpremium1
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Kênh Ba Lan",Polsat Sport Premium 2
+http://46.149.222.219:18002/polsatsportpremium2
 #EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="Kênh Ba Lan",Polsat JimJam Ⓢ
 http://185.227.34.179:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="Kênh Ba Lan",Polsat Viasat History
 http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
-#EXTINF:-1 tvg-id="PolsatX.pl@SD" tvg-logo="https://i.imgur.com/8juCHsb.png" group-title="Kênh Ba Lan",Polsat X
-https://bingbang.kotmiuaczek.workers.dev/?id=1594464
 #EXTINF:-1 tvg-id="TVN.pl@SD" tvg-logo="https://i.imgur.com/PeUsth6.png" group-title="Kênh Ba Lan",TVN (Poland)
-https://bingbang.kotmiuaczek.workers.dev/?id=3342
+http://91.226.96.110:5555/tvn/index.m3u8
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl@Poland" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" group-title="Kênh Ba Lan",American Crime Channel
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-id="AXNBlack.us@Poland" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Kênh Ba Lan",AXN Black (United States) Poland
 http://185.227.34.179:8080/axn-black/index.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.pl@SD" tvg-logo="https://i.imgur.com/DaAyLE7.png" group-title="Kênh Ba Lan",AXN White (Poland)
-http://92.114.85.87:8014/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Poland" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Kênh Ba Lan",AXN White (United States) Poland
 http://185.227.34.179:8080/axn-white/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kênh Ba Lan",BabyFirst
@@ -53,12 +57,14 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://193.33.39.108:9019/play/a00t
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Kênh Ba Lan",Cartoonito CEE Poland
 http://92.114.85.87:8007/play/a008
-#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Kênh Ba Lan",Cartoon Network CEE Poland
-http://92.114.85.87:8007/play/a009
+#EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" group-title="Kênh Ba Lan",CBeebies (Poland)
+http://92.114.85.87:8017/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax2CentralEurope.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" group-title="Kênh Ba Lan",Cinemax 2 Central Europe
 http://193.33.39.108:9009/play/a024
 #EXTINF:-1 tvg-id="CinemaxCentralEurope.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" group-title="Kênh Ba Lan",Cinemax Central Europe
 http://193.33.39.108:9023/play/a01b
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl@SD" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="Kênh Ba Lan",Crime + Investigation Polsat
+http://185.227.34.179:8080/ci_polsat_hd/index.m3u8
 #EXTINF:-1 tvg-id="CTVDlaCiebieTV.ee@SD" tvg-logo="https://ukrtvr.org/images/%D0%A1%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B5/CTV%20-%20Dla%20Ciebie%20TV.png" group-title="Kênh Ba Lan",CTV Dla Ciebie TV
 http://90.183.52.46:4000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="Kênh Ba Lan",Disco Polo Music
@@ -113,12 +119,14 @@ https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-id="RACERInternational.pl@FAST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Kênh Ba Lan",RACER International
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIOCLUBDJTV.pl@HD" tvg-logo="https://radioclubdj.pro/studio/logo.png" group-title="Kênh Ba Lan",RADIO CLUB DJ TV
+https://radioclubdj.pro/stream/tv.m3u8
+#EXTINF:-1 tvg-id="RadiowaCzworka.pl@SD" tvg-logo="https://i.imgur.com/VAtxF7k.png" group-title="Kênh Ba Lan",Radiowa Czworka
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.us@Poland" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Kênh Ba Lan",Rakuten Viki Poland
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RedCarpetTVInternational.pl@SD" tvg-logo="https://i.imgur.com/xf7UXCA.png" group-title="Kênh Ba Lan",Red Carpet TV International
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
-#EXTINF:-1 tvg-id="RemontyTV.pl@HD" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Kênh Ba Lan",Remonty TV
-https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
 #EXTINF:-1 tvg-id="Royalworld.pl@FAST" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg" group-title="Kênh Ba Lan",Royalworld
 https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
 #EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" group-title="Kênh Ba Lan",RTG int.
@@ -126,6 +134,8 @@ https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/
 http://213.91.179.28:8000/play/a0bw
 #EXTINF:-1 tvg-id="SferaTV.pl@SD" tvg-logo="https://i.imgur.com/aK7xfKi.png" group-title="Kênh Ba Lan",Sfera TV
 https://stream.sferatv.pl/sferatvlive/live.m3u8
+#EXTINF:-1 tvg-id="StopklatkaTV.pl@SD" tvg-logo="https://i.imgur.com/qqNsIkx.png" group-title="Kênh Ba Lan",Stopklatka TV
+http://92.114.85.87:8018/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" group-title="Kênh Ba Lan",Strongman Champions League
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" group-title="Kênh Ba Lan",Strongman Champions League
@@ -140,10 +150,10 @@ https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaiTTV.pl@SD" tvg-logo="https://www.ittv.pl/media/images/ittv-logo.png" group-title="Kênh Ba Lan",Telewizja iTTV
 https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="TelewizjaJaslo.pl@SD" tvg-logo="https://i.imgur.com/nV2jQQP.png" group-title="Kênh Ba Lan",Telewizja Jaslo
-https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaLuban.pl@SD" tvg-logo="https://i.imgur.com/t2BGp0G.jpeg" group-title="Kênh Ba Lan",Telewizja Luban
 http://stream.herissons.cloud/hls/tvluban.m3u8
+#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl@SD" tvg-logo="https://i.imgur.com/FB9H8DO.png" group-title="Kênh Ba Lan",Telewizja Regionalna Zary
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Poland" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Kênh Ba Lan",The Pet Collective Poland
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="Kênh Ba Lan",TNA Wrestling Channel
@@ -176,5 +186,3 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
 #EXTINF:-1 tvg-id="WPolscePL.pl@SD" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="Kênh Ba Lan",W Polsce PL
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
-#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-logo="https://i.imgur.com/UtZM4zm.png" group-title="Kênh Ba Lan",Zoom TV Ⓢ
-http://92.114.85.87:8001/play/a00y/index.m3u8
